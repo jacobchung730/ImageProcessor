@@ -1,0 +1,20 @@
+create-layer one
+create-layer one
+current two
+load-file beebop.txt
+blur
+sepia
+greyscale
+sharpen
+save banana jng
+saveAll bananas jng
+remove-image
+remove-layer
+remove-layer
+invisible
+visible
+copy
+
+totally
+wrong
+commands

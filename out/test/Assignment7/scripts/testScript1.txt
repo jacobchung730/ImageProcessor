@@ -1,0 +1,14 @@
+create-layer one
+load-checkerboard 1 1 1
+create-layer two
+invalid commands
+current one
+copy
+sepia
+blur
+sharpen
+greyscale
+invisible
+visible
+remove-layer
+quit

@@ -1,0 +1,24 @@
+load-project dogFolder
+current fish
+remove-layer
+current dog
+remove-layer
+current cat
+remove-layer
+create-layer dog
+load-file Dog.ppm
+blur
+random words invalid commands
+save dog.v1 png
+create-layer dogSepia
+load-file OldDog.png
+sharpen
+greyscale
+save dog.v2 jpg
+saveAll dogLayers jpg
+invisible
+save dog.v3Fail jng
+save dog.v3Yay jpg
+visible
+remove-layer
+quit

@@ -1,0 +1,3 @@
+cat.jpg
+fish.jpg
+dog.jpg

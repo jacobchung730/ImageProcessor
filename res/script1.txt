@@ -1,0 +1,22 @@
+create-layer one
+create-layer two
+current one
+load-file Dog.ppm
+blur
+current two
+load-checkerboard 10 10 10
+sharpen
+save v1 png
+saveAll v1All jpg
+current one
+greyscale
+current two
+sepia
+invisible
+save v2 ppm
+visible
+remove-image
+remove-layer
+current one
+copy
+quit
