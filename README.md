@@ -132,10 +132,3 @@ the operations that the controller can pass on to the model.
 We were way over the 125 file limit. Therefore, we decided to combine all of our command tests 
 into a class called "CommandTest"
 
-Image Citations
----------------
-1: Dog.ppm
-This image was taken by Emily, who authorizes its use in this project.
-
-2: Ornament.ppm
-This image was taken by Jacob, who authorizes its use in the project. 
